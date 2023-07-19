@@ -170,5 +170,50 @@ body{
     }
 }
 
+@media only screen and (max-width: 600px) {
+    body{
+        background-image: url(/images/bg-mobile.png);
+        background-color: none;
+        background-repeat: no-repeat;
+        background-size: cover;
+        padding: 0 1.2rem;
+        min-height: 100vh;
+    }
+    .container{
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 16px;
+        width: 100%;
+
+        .fylo{
+            width: 100%;
+            margin-right: 0;
+            padding: 1rem;
+        }
+
+        .storage{
+            width: 100%;
+        }
+
+        #talkbubble{
+            position: absolute;
+            display: flex;
+            top: 90%;
+            right: 0;
+            left: 0;
+            margin: 0 auto;
+        }
+
+        #talkbubble:before{
+            border: 0;
+        }
+    }
+
+    .attribution{
+        margin-top: 2rem;
+    }
+}
+
 .attribution { font-size: 13px; text-align: center; color: #a8a6a6; }
 .attribution a { color: hsl(0, 0%, 81%); font-weight: bolder;}
