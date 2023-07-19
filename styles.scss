@@ -1,11 +1,13 @@
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 
 body{
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     font-family: 'Raleway', sans-serif;
@@ -74,6 +76,8 @@ body{
         padding: 1rem 4rem 1rem 1.4rem;
         background-color: #1e2c69;
         border-radius: .500rem 4.5rem .500rem .500rem;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+            0 2px 4px -1px rgba(0, 0, 0, 0.06);
 
         .main-logo{
             width: 110px;
@@ -112,6 +116,8 @@ body{
         padding: 1rem;
         width: 350px;
         height: 80px;
+        box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+            0 2px 4px -1px rgba(0, 0, 0, 0.06);
 
         .used{
             color: rgb(191, 191, 191);
@@ -146,7 +152,7 @@ body{
                 display: flex;
                 justify-content: flex-end;
                 align-items: center;
-                background: linear-gradient(90deg, hsla(33, 94%, 57%, 0.85) 0%, hsla(333, 100%, 53%, 0.95) 100%);
+                background: linear-gradient(90deg, hsl(6, 100%, 80%) 0%, hsl(335, 100%, 65%) 100%);
                 border-radius: 2rem;
                 width: 80%;
                 height: .8rem;
@@ -163,3 +169,6 @@ body{
         }
     }
 }
+
+.attribution { font-size: 13px; text-align: center; color: #a8a6a6; }
+.attribution a { color: hsl(0, 0%, 81%); font-weight: bolder;}
