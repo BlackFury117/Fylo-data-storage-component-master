@@ -12,7 +12,7 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 - Flexbox
 - Mobile-first workflow
 
-Preview it here - [Fylo data storage component solution]() <br><br>
+Preview it here - [Fylo data storage component solution](https://blackfury117.github.io/Fylo-data-storage-component-master/) <br><br>
 
 ## Author
 
