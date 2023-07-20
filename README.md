@@ -2,7 +2,7 @@
 
 ![Design preview for the Fylo data storage component coding challenge](./design/Screenshot-of-my-work.png)
 
-This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n/hub). Frontend Mentor challenges help us to improve our coding skills by building realistic projects. <br><br>
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-data-storage-component-solution-l1rVgtcJ5A). Frontend Mentor challenges help us to improve our coding skills by building realistic projects. <br><br>
 
 ## Built with
 
