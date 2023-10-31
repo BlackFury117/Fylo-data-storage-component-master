@@ -12,10 +12,10 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 - Flexbox
 - Mobile-first workflow
 
-Preview it here - [Fylo data storage component solution](https://blackfury117.github.io/Fylo-data-storage-component-master/) <br><br>
+Preview it here - [Fylo data storage component solution](https://id-dev3.github.io/Fylo-data-storage-component-master/) <br><br>
 
 ## Author
 
-- Website - [Black Fury](https://blackfury117.github.io/)
+- Website - [Idris](https://id-dev3.github.io/)
 - Frontend Mentor - [@BlackFury117](https://www.frontendmentor.io/profile/BlackFury117)
-- Twitter - [@blackfury117](https://www.twitter.com/blackfury117)
+- Twitter - [@id_dev3](https://www.twitter.com/id-dev3)
